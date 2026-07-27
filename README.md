@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-I hold a Bachelor’s degree in Computer Science with an emphasis in Web and Interface Development. I have taken virtually every software development course offered at the university. I am very productive, have a constant desire to learn and improve, and a passion for the art of writing beautiful code.
+I hold a Bachelor’s degree in Computer Science with an emphasis in Web and Interface Development. I am very productive, have a constant desire to learn and improve, and a passion for the art of writing beautiful code.
 
 Final project:
 https://skemman.is/handle/1946/53550
+
+
 
 <!--
 **kristofer111/kristofer111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
