@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-I hold a Bachelor’s degree in Computer Science with an emphasis in Web and Interface Development. I am very productive, have a constant desire to learn and improve, and a passion for the art of writing beautiful code.
+I hold a Bachelor’s degree in Computer Science with an emphasis in Web and Interface Development.
 
-Final project:
-https://skemman.is/handle/1946/53550
+Final project: https://skemman.is/handle/1946/53550
+
+I’m currently working on a personal website. In the meantime, here's my CV: 
 
 
 
