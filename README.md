@@ -4,7 +4,7 @@ I hold a Bachelor’s degree in Computer Science with an emphasis in Web and Int
 
 Final project: https://skemman.is/handle/1946/53550
 
-I’m currently working on a personal website. In the meantime, here's my CV: 
+I’m currently working on a personal website. In the meantime, here's my CV: [Download my CV](https://github.com)
 
 
 
