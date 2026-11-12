@@ -3,6 +3,7 @@
 I hold a Bachelor’s degree in Computer Science with an emphasis in Web and Interface Development.
 
 Final project: https://skemman.is/handle/1946/53550
+
 Website: https://kristoferorri.com
 
 
