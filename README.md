@@ -3,12 +3,12 @@
 I hold a Bachelor’s degree in Computer Science with an emphasis in Web and Interface Development.
 
 Final project: https://skemman.is/handle/1946/53550
-
-I’m currently working on a personal website. In the meantime, [here's my CV](https://github.com/kristofer111/kristofer111/raw/main/Krist%C3%B3fer%20Orri%20Svavarsson%20-%20CV.pdf?download=true)
-
+Website: https://kristoferorri.com
 
 
 <!--
+I’m currently working on a personal website. In the meantime, [here's my CV](https://github.com/kristofer111/kristofer111/raw/main/Krist%C3%B3fer%20Orri%20Svavarsson%20-%20CV.pdf?download=true)
+
 **kristofer111/kristofer111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
